@@ -12,8 +12,6 @@ TASK - 1
  7. Display the user's score, which can be based on the number of attempts taken or
  rounds won.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
-
 TASK - 2
  STUDENT GRADE CALCULATOR
  Input: Take marks obtained (out of 100) in each subject.
@@ -24,7 +22,7 @@ TASK - 2
  Display Results: Show the total marks, average percentage, and the corresponding grade
  to the user
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 TASK - 3
  ATM INTERFACE
